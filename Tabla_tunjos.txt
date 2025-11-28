@@ -1,4 +1,4 @@
-# Código Material Técnica Sexo Dibujado Artefacto_(s) Cantidad Dibujado_(s) Sexo_2 Elementos_adicionales_1 2 3 4 5 6 Tocado Elementos_de_la_cara_1 Elementos_de_la_cara_2 Elementos_de_las_orejas_1 Elementos_de_las_orejas_2 Elementos_de_cuello_y_pecho_1 Elementos_de_cuello_y_pecho_2 Elementos_de_cuello_y_pecho_3 Cinturones
+ID Código Material Técnica Sexo Dibujado Artefacto_(s) Cantidad Dibujado_(s) Sexo_2 Elementos_adicionales_1 2 3 4 5 6 Tocado Elementos_de_la_cara_1 Elementos_de_la_cara_2 Elementos_de_las_orejas_1 Elementos_de_las_orejas_2 Elementos_de_cuello_y_pecho_1 Elementos_de_cuello_y_pecho_2 Elementos_de_cuello_y_pecho_3 Cinturones
 1 MEB_V_A_2125 tumbaga plana masculino si si 5 si masculino_sin_gonadas_hacia_arriba propulsor escudo N/A N/A N/A N/A con_adornos N/A N/A N/A N/A argollas N/A N/A dos_hilos
 2 MEB_V_A_10337 tumbaga figurilla indeterminado no si 8 si indeterminado pájaros bandeja cachiporra poporo dos_palitos N/A colmena canutos_en_boca N/A N/A N/A doble_canana N/A N/A N/A
 3 MEB_V_A_13636 oro semi_plana indeterminado si si 4 si indeterminado pájaros un_palito N/A N/A N/A N/A rectangular N/A N/A colgantes_sin_forma N/A N/A N/A N/A N/A
@@ -321,3 +321,4 @@
 320 VMO_LO_0056 oro canasto canastos si si 1 si canastos N/A N/A N/A N/A N/A N/A semi_ovalo N/A N/A N/A N/A N/A N/A N/A N/A
 321 VMO_LO_0057 tumbaga plana masculino si si 4 si masculino_con_gonadas_hacia_arriba N/A N/A N/A N/A N/A N/A cilíndrico nariguera_calada N/A N/A N/A collar_largo N/A N/A un_hilo
 322 VMO_LO_0058 oro plana masculino si si 4 si masculino_sin_gonadas_hacia_abajo macana dos_palitos N/A N/A N/A N/A rectangular N/A N/A N/A N/A N/A N/A N/A un_hilo
+
